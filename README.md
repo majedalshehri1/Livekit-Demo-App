@@ -48,8 +48,14 @@ npm run start
 
 ## Order to run:
 
-##### 1 - docker compose up -d
+ 1 - `docker compose up -d`
 
-##### 2 - mvn spring-boot:run
+2 - `mvn spring-boot:run`
 
-##### 3 - npm run start
+3 - `npm run start`
+
+---
+
+## Reference
+
+[LiveKit tutorials and documentation](https://livekit-tutorials.openvidu.io/)
