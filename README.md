@@ -40,7 +40,7 @@ mvn spring-boot:run
 Go into the `openvidu-vue` folder and run:
 ```bash
 npm install
-npm run dev
+npm run start
 ```
 ###### This starts the front-end UI (Vite local dev server).
 
