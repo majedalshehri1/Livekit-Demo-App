@@ -52,4 +52,4 @@ npm run dev
 
 ##### 2 - mvn spring-boot:run
 
-##### 3 - npm run dev
+##### 3 - npm run start
